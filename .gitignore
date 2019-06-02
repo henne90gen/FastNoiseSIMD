@@ -262,3 +262,6 @@ paket-files/
 /TEST/FastNoiseSIMD Preview
 /cellModel.skp
 /cellModel.skb
+
+cmake-build-debug
+.idea
